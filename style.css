@@ -1,2 +1,10 @@
-body {background-color: rgb(106, 41, 180); text-align: center;}
-    p {color: black;} .MINJI {font-style: italic;}
+body {
+    background-color: rgb(106, 41, 180);
+     text-align: center;
+    }
+    p {
+        color: black;
+    } 
+    .MINJI {
+        font-style: italic;
+    }
