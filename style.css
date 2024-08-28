@@ -1,6 +1,17 @@
-body
- {
-    background-color: rgb(57, 10, 117);}
+body {
+    background-color: rgb(57, 10, 117);
+    text-align: center;
+ }
     
- p {color: black;} .minji {font-style: oblique;} 
+ p {
+      color: black;
+}
+
+.minji {
+   font-style: oblique;
+} 
+
+.img1 {
+   width: 50%;
+}
 
