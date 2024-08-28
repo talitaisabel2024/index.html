@@ -1,10 +1,6 @@
-body {
-    background-color: rgb(106, 41, 180);
-     text-align: center;
-    }
-    p {
-        color: black;
-    } 
-    .MINJI {
-        font-style: italic;
-    }
+body
+ {
+    background-color: rgb(57, 10, 117);}
+    
+ p {color: black;} .minji {font-style: oblique;} 
+
