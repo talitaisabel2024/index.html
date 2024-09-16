@@ -1,15 +1,20 @@
 body {
-    background-color: rgb(57, 10, 117);
-    text-align: center;
- }
-    
- p {
-      color: black;
+   background-color: rgba(153, 50, 204, 0.817);
+   text-align: center;
+   margin: 0px
 }
 
-.minji {
-   font-style: oblique;
-} 
+header {
+   border-bottom: solid 2px rgb(0, 0, 0);
+   padding: 20px;
+   font-size: 20px;
+   text-decoration: none;
+}
+
+.minji { 
+   font-style: italic;
+   color: rgb(0, 0, 0);
+}
 
 .img1 {
    width: 50%;
