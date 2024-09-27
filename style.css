@@ -1,22 +1,28 @@
 body {
    background-color: rgba(153, 50, 204, 0.817);
-   text-align: center;
    margin: 0px
 }
 
-header {
-   border-bottom: solid 2px rgb(0, 0, 0);
-   padding: 20px;
+nav a {
+   margin-top: 5px;
+   padding: 2px;
    font-size: 20px;
-   text-decoration: none;
+   color:rgba(0, 0, 0, 0.192);
+   display: flex;
+   justify-content: center;
 }
-
-.minji { 
-   font-style: italic;
+h1 {
    color: rgb(0, 0, 0);
+   padding-top: 5%;
+}
+.unicornio {
+   font-style: italic;
 }
 
 .img1 {
    width: 50%;
 }
 
+.centro {
+   text-align: center;
+}
